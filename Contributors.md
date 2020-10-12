@@ -47,6 +47,7 @@
 - [Luisa Bez](https://github.com/lb930)
 - [ManuMcfly$](https://github.com/ManuMcfly6)
 - Sriparna Chakraborty
+Fiona Habuka
 - [Meghal Bisht] (https://github.com/MeghalBisht)
 - [Cindy Cai] (https://github.com/cindymxcai)
 - [Sonakshi Gupta] (https://github.com/guptasonakshi)
